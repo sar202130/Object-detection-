@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Paper1631_jpg.rf.94be9b8fc3949e2c2a13c84d5e0ff60c.jpg</filename>
+	<path>Paper1631_jpg.rf.94be9b8fc3949e2c2a13c84d5e0ff60c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Biodegradable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>130</xmin>
+			<xmax>430</xmax>
+			<ymin>104</ymin>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>
