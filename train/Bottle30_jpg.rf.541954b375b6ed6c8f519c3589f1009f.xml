@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Bottle30_jpg.rf.541954b375b6ed6c8f519c3589f1009f.jpg</filename>
+	<path>Bottle30_jpg.rf.541954b375b6ed6c8f519c3589f1009f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Non-biodegradable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>91</xmin>
+			<xmax>577</xmax>
+			<ymin>67</ymin>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>
