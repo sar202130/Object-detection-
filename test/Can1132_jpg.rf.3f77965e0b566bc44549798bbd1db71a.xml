@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Can1132_jpg.rf.3f77965e0b566bc44549798bbd1db71a.jpg</filename>
+	<path>Can1132_jpg.rf.3f77965e0b566bc44549798bbd1db71a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Non-biodegradable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>55</xmin>
+			<xmax>481</xmax>
+			<ymin>82</ymin>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>
