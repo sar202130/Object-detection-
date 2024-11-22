@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Cardboard831_jpg.rf.522ba384d255b8dd8c1f1d28be89169a.jpg</filename>
+	<path>Cardboard831_jpg.rf.522ba384d255b8dd8c1f1d28be89169a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Biodegradable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>161</xmin>
+			<xmax>597</xmax>
+			<ymin>275</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>
