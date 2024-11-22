@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Fruits967_jpg.rf.ff47c6a92d8363c5abee85000da1141b.jpg</filename>
+	<path>Fruits967_jpg.rf.ff47c6a92d8363c5abee85000da1141b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Biodegradable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>135</xmin>
+			<xmax>559</xmax>
+			<ymin>151</ymin>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>
