@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Cellophane489_jpg.rf.0289f41349fa72aa7f0119772ce28520.jpg</filename>
+	<path>Cellophane489_jpg.rf.0289f41349fa72aa7f0119772ce28520.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Non-biodegradable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>264</xmin>
+			<xmax>415</xmax>
+			<ymin>263</ymin>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>
