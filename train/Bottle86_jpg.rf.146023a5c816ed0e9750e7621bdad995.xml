@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Bottle86_jpg.rf.146023a5c816ed0e9750e7621bdad995.jpg</filename>
+	<path>Bottle86_jpg.rf.146023a5c816ed0e9750e7621bdad995.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Non-biodegradable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>9</xmin>
+			<xmax>641</xmax>
+			<ymin>123</ymin>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>
